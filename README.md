@@ -137,11 +137,13 @@ urlpatterns = [
 ```
 ## SERVER SIDE PROCESSING:
 
+
 ![Screenshot from 2025-04-23 11-18-28](https://github.com/user-attachments/assets/1034b11a-32f7-464a-af75-7d1481b22142)
 
 
 
 ## HOMEPAGE:
+
 
 ![Screenshot from 2025-04-23 11-17-59](https://github.com/user-attachments/assets/59f63453-cda2-4ed1-bd64-205e4e505a32)
 
