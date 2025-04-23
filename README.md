@@ -1,4 +1,4 @@
-![Screenshot from 2025-04-23 11-18-28](https://github.com/user-attachments/assets/07ff1e2d-fa29-4198-9e53-5233f1758c9d)# Ex.05 Design a Website for Server Side Processing
+
 ## Date:23.04.2025
 
 ## AIM:
